@@ -1,7 +1,7 @@
-[LP1]: https://learn.microsoft.com/en-us/training/paths/create-custom-copilots-ai-studio/
+[LP1]: https://learn.microsoft.com/en-us/training/paths/develop-generative-ai-apps/
 [LP2]: https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-on-azure/
 [LP3]: https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/
-[LP4]: https://learn.microsoft.com/en-us/training/paths/create-computer-vision-solutions-azure-ai/
+[LP4]: https://learn.microsoft.com/en-us/training/paths/develop-computer-vision-with-foundry/
 [LP5]: https://learn.microsoft.com/en-us/training/paths/ai-extract-information/
 
 # AI-102 Develop AI solutions in Azure
@@ -121,6 +121,10 @@
 
 
 ## Useful Links
+
+[The AI job boom is here. Are you ready to showcase your skills?](https://techcommunity.microsoft.com/blog/skills-hub-blog/the-ai-job-boom-is-here-are-you-ready-to-showcase-your-skills/4494128)
+
+[Microsoft Build, June 2-3, 2026 / San Francisco and online](https://build.microsoft.com/en-US/home)
 
 <br>
 
