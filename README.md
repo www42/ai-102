@@ -27,6 +27,31 @@
 1. Sign in with your Skillable account 
 2. Register with Training Key
 
+[LP1 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-studio
+[LP1 html]: https://microsoftlearning.github.io/mslearn-ai-studio/
+
+[LP2 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-agents
+[LP2 html]: https://microsoftlearning.github.io/mslearn-ai-agents/
+
+[LP3 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-language
+[LP3 html]: https://microsoftlearning.github.io/mslearn-ai-language/
+
+[LP4 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-vision
+[LP4 html]: https://microsoftlearning.github.io/mslearn-ai-vision/
+
+[LP5 Repo]: https://github.com/MicrosoftLearning/mslearn-ai-information-extraction
+[LP5 html]: https://microsoftlearning.github.io/mslearn-ai-information-extraction/
+
+| Learning Path                                                   | Repo                                           | Labs             |
+| --------------------------------------------------------------- | ---------------------------------------------- | ---------------- |
+| [LP1 Develop generative AI apps in Azure][LP1]                  |  [mslearn-ai-studio][LP1 Repo]                 | [html][LP1 html] |
+| [LP2 Develop AI Agents on Azure][LP2]                           |  [mslearn-ai-agents][LP2 Repo]                 | [html][LP2 html] |
+| [LP3 Develop natural language solutions in Azure][LP3]          |  [mslearn-ai-language][LP3 Repo]               | [html][LP3 html] |
+| [LP4 Develop Computer Vision solutions in Azure][LP4]           |  [mslearn-ai-vision][LP4 Repo]                 | [html][LP4 html] |
+| [LP5 Develop AI information extraction solutions in Azure][LP5] |  [mslearn-ai-information-extraction][LP5 Repo] | [html][LP5 html] |
+
+
+
 <!--[Go Deploy](https://lms.godeploy.it) -->
 
 <!--
@@ -108,6 +133,8 @@
 [Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/)
 
 [Official Microsoft Learn MCP Server and CLI tool](https://github.com/microsoftdocs/mcp)
+
+[Azure Language in Foundry Tools documentation](https://learn.microsoft.com/en-us/azure/ai-services/language-service/)
 
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
 
