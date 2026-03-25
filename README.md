@@ -103,6 +103,12 @@
 
 [Microsoft Foundry Classic documentation](https://learn.microsoft.com/en-us/azure/foundry-classic/)
 
+[Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
+
+[Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/)
+
+[Official Microsoft Learn MCP Server and CLI tool](https://github.com/microsoftdocs/mcp)
+
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
 
 [Azure Resource Manager documentation](https://learn.microsoft.com/en-us/azure/azure-resource-manager/)
