@@ -6,7 +6,10 @@
 
 # AI-102 Develop AI solutions in Azure
 
-<span style ="color:red;">[Grab your badges (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?source=learn&redeem=P9RQJK&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189687)</span>
+[Grab your badges (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?source=learn&redeem=P9RQJK&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189687)
+
+<br>
+<br>
 
 ## Learning Paths
 
