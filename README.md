@@ -14,9 +14,9 @@
 
 ## Applied Skills
 
-[Microsoft Applied Skills: Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/create-an-ai-agent/?wt.mc_id=appliedskills_poster_content_wwl)
+🚀 [Microsoft Applied Skills: Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/create-an-ai-agent/?wt.mc_id=appliedskills_poster_content_wwl)
 
-[emails](apl/emails.txt)
+🚀 [emails](apl/emails.txt)
 
 <br>
 
