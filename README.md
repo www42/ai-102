@@ -6,6 +6,8 @@
 
 # AI-102 Develop AI solutions in Azure
 
+<span style ="color:red;">[Grab your badges (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?source=learn&redeem=P9RQJK&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189687)</span>
+
 ## Learning Paths
 
 [1. Develop generative AI apps in Azure][LP1]
@@ -135,6 +137,12 @@
 [Official Microsoft Learn MCP Server and CLI tool](https://github.com/microsoftdocs/mcp)
 
 [Azure Language in Foundry Tools documentation](https://learn.microsoft.com/en-us/azure/ai-services/language-service/)
+
+[Speech-to-Text Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-speech-to-text)
+
+[Text-to-Speech Documentation](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-text-to-speech)
+
+[The Speech CLI](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-basics?tabs=windowsinstall%2Cpowershell)
 
 [Azure documentation](https://learn.microsoft.com/en-us/azure/)
 
