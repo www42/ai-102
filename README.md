@@ -6,7 +6,9 @@
 
 # AI-102 Develop AI solutions in Azure
 
-[Grab your badges (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?source=learn&redeem=P9RQJK&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189687)
+## Seminar 23. - 27.03.2026
+
+➡️ [Grab your badges (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?source=learn&redeem=P9RQJK&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189687) ⬅️
 
 <br>
 <br>
