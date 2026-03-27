@@ -1,0 +1,110 @@
+Subject: General guidelines
+From: cto@contoso.com
+To: User1@cloudslice.onmicrosoft.com
+
+Thank you for agreeing to help our team create an Al agent. We have some general guidelines that you must follow when you perform tasks in Azure. Please always use the following guidelines:
+
+• When creating objects, use the default settings unless a different configuration is required to complete the task successfully.
+• Only create, delete, or modify objects to achieve the stated requirements. Unnecessary changes to the environment can adversely affect your final score.
+• If there are multiple approaches to achieving a goal, always choose the approach that requires the least amount of administrative effort.
+
+Thanks,
+Chief Technology Officer (CTO)
+
+----------------------------------------------------------------------------
+
+Subject: Existing environment
+From: networkadmin@contoso.com
+To: User1@cloudslice.onmicrosoft.com
+
+Here are your credentials for accessing our resources in Azure:
+User name: User1@cloudslice.onmicrosoft.com
+Temporary Access Pass: 2Nq&*N#E
+
+You can find these credentials by clicking the Instructions tab.
+
+You have been given rights to the RG1 resource group. Please create all Azure objects in this resource group.
+
+Microsoft Visual Studio Code is installed on the local machine. All necessary extensions and libraries are already installed.
+
+NOTE: Do NOT toggle the New Foundry option from the Microsoft Foundry portal. All tasks must be completed in the default portal.
+
+Thanks,
+Network administrator
+
+----------------------------------------------------------------------------
+
+Subject: Cran Agent
+From: projman@contoso.com
+To: User1@cloudslice.onmicrosoft.com
+
+Hello,
+
+We plan to create two agents that will answer questions related to Project Cranberry. All the files required for this task are in C:\Resources\Project_Cranberry.
+
+As part of the initial agent creation, be sure to create all the Microsoft Foundry-related resources in the RG1 resource group, as you do NOT have permissions to create resources anywhere else.
+
+Let's start by creating the first agent.
+
+You need you to create a new agent named Cran in Microsoft Foundry. The agent must meet the following
+requirements:
+• Use the gpt-4.1-nano model. Be grounded by using the files in C:\Resources\Project_Cranberry.
+• Use the following instructions: "You are a helpful agent that provides information about Project Cranberry by using
+internal knowledge. If a question is unclear, respond with 'I don't know.'"
+
+Thanks,
+Project Management Team
+
+----------------------------------------------------------------------------
+
+Subject: News agent
+From: projman@contoso.co 
+To: User1@cloudslice.onmicrosoft.com
+
+Hello,
+
+We want you to create a second agent that will interpret data related to our newsletter email campaigns. The agent must be in the same project as Cran.
+
+This is your task:
+You need to create a new agent named News. The agent must meet the following requirements:
+
+• Use the existing gpt-4.1 -nano model.
+• Use the Code Interpreter tool to analyze C:\Resources\Project_Cranberry\Newsletter_Performance_Report.csv.
+• Use the following instructions: "You are an agent that analyzes tabular newsletter data by using the attached tools only."
+
+Thanks,
+Project Management Team
+
+----------------------------------------------------------------------------
+
+Subject: Connected Agents
+From: projman@contoso.com
+To: User1@cloudslice.onmicrosoft.com
+
+Hello,
+
+We want Cran to be able to invoke News, when needed.
+
+This is your task:
+
+You need to configure the Cran agent to use the News agent.
+
+You need to configure the Cran agent to use the News agent.
+
+From the Agents Playground, verify the configuration by issuing a query to the Cran agent that invokes the use of the News agent. The query must first ask a question that relates to newsletter email campaign statistics, such as the number of emails sent and delivered, open rates, click rates, clicks, conversion rates, and unsubscribe rates.
+
+Thanks,
+Project Management Team
+
+----------------------------------------------------------------------------
+
+Subject: Status - Complete
+From: cto@contoso.com
+To: User1@cloudslice.onmicrosoft.com
+
+Thank you for helping our team create an Al agent.
+
+We look forward to working with you again.
+
+Regards,
+Chief Technology Officer (CTO)

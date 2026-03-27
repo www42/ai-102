@@ -11,7 +11,16 @@
 ➡️ [Grab your badges (Microsoft Learn)](https://learn.microsoft.com/de-de/users/me/achievements?source=learn&redeem=P9RQJK&WT.mc_id=ilt_partner_webpage_wwl&ocid=5189687) ⬅️
 
 <br>
+
+## Applied Skills
+
+[Microsoft Applied Skills: Create an AI agent](https://learn.microsoft.com/en-us/credentials/applied-skills/create-an-ai-agent/?wt.mc_id=appliedskills_poster_content_wwl)
+
+[emails](apl/emails.txt)
+
 <br>
+
+
 
 ## Learning Paths
 
